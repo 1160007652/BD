@@ -1,0 +1,12 @@
+- redis介绍和安装
+- 启动redis
+- redis五种数据类型-1
+- redis五种数据类型-2
+- 使用java操作redis(string类型)
+- 使用java操作redis(hash类型)
+- 使用java操作redis(List类型)
+- 使用java操作redis(set类型)
+- 使用java操作redis(zset类型)
+- redis集群原理
+- redis集群安装
+- 使用java操作redis集群
